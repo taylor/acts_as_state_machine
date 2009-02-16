@@ -1,4 +1,4 @@
-= Acts As State Machine
+= Fork of Acts As State Machine
 
 This act gives an Active Record model the ability to act as a finite state
 machine (FSM).
